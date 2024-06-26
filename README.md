@@ -17,3 +17,7 @@ In the few-shot learning of the prototypical network using the pre-trained Dense
 
 ![fine_tuned_200epoch](https://github.com/nithinreddy003/latent_fingerprint/assets/104730933/df87bc27-15e3-4ee1-bdb8-5bfc219db8dd)
 ![confusion_matrix_test_cases](https://github.com/nithinreddy003/latent_fingerprint/assets/104730933/4859b6b3-6792-4570-924a-7e232491dc11)
+
+![335604909-4859b6b3-6792-4570-924a-7e232491dc11](https://github.com/nithinreddy003/latent_fingerprint/assets/92316540/b6b71d3e-4081-4b9b-bd4d-6f09df077609)
+![335604771-df87bc27-15e3-4ee1-bdb8-5bfc219db8dd](https://github.com/nithinreddy003/latent_fingerprint/assets/92316540/1bb8d607-5167-4ba6-91d9-605ab3f9a288)
+
